@@ -8,7 +8,7 @@ def fizz_buzz(n):
             print("Buzz")
         else:
             print(i)
+            
 
-# Ввод числа от пользователя
 num = int(input("Введите число: "))
 fizz_buzz(num)
